@@ -5,3 +5,4 @@ R100: A SDR receiver by direct covert,worked in 2-1000MHz.
 R200: A SDR receiver by AD+FPGA,worked in 2-1000MHz.    
 YEYING: A SSB/CW SDR transceiver, worked in 7/14MHz band with 15W RF power output.    
 HAMMER: A SSB/CW/nFM/AM SDR transceiver, worked in 7/14/21/29MHz band with a classe E 5W RF power output.  
+[![Hits](https://hits.sh/github.com/dinuco/radio-devices.svg)](https://hits.sh/github.com/dinuco/radio-devices/)
